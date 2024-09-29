@@ -1,5 +1,4 @@
 # import packages
-pip install matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
 
